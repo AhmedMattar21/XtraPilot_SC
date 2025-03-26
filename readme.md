@@ -22,7 +22,6 @@
 - ✅ **Automated Deployment:** Set up a MySQL XtraDB Cluster with minimal effort.
 - ✅ **High Availability:** Ensures a resilient, self-healing cluster.
 - ✅ **Effortless Scaling:** Add or remove nodes with ease.
-- ✅ **Backup & Restore:** Automated backup strategies for data safety.
 - ✅ **Monitoring & Health Checks:** Keep track of cluster performance.
 - ✅ **Secure & Optimized:** Configures best practices for security and efficiency.
 - ✅ **Cluster Encryption:** Enables and configures encryption for both cluster and client traffic.
@@ -53,7 +52,3 @@ This project is licensed under the MIT License.
 ## 📢 **Note**
 
 This repository is a showcase version of the original project. If you are interested in accessing the full version, please feel free to contact us.
-
-
-<h3 align=center> Happy Automating! 🎉 </h3>
-
